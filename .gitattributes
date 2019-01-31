@@ -1,1 +1,1 @@
-*.conf linguist-vendored=false
+*.conf linguist-language=Nginx
